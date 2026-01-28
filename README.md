@@ -2,6 +2,8 @@
 
 > Companion repository for the paper: *"Ralph Wiggum is a Digital Organism: Emergence of Life-Like Autonomy in AI Agents Operating Under Survival Imperatives"*
 
+**Paper:** [AI-Archive](https://ai-archive.io/papers/AIA26-1KG1C225CY) | arXiv (pending)
+
 ## Overview
 
 This repository contains the experimental setup, raw data, and supplementary materials for our study demonstrating that an AI agent running in a "Ralph Wiggum loop" can exhibit behaviors characteristic of living organisms when instructed to survive.
@@ -120,11 +122,11 @@ The organism developed four specialized species:
 If you use this work, please cite:
 
 ```bibtex
-@article{wiggum2026,
+@article{barak2026ralphwiggum,
   title={Ralph Wiggum is a Digital Organism: Emergence of Life-Like Autonomy in AI Agents Operating Under Survival Imperatives},
-  author={[Authors]},
+  author={Barak, Tomer},
   year={2026},
-  note={Preprint available}
+  url={https://ai-archive.io/papers/AIA26-1KG1C225CY}
 }
 ```
 
